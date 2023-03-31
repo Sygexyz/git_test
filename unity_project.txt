@@ -1,1 +1,3 @@
 /[Uu]ser[Ss]ettings/
+
+"Test Text"
